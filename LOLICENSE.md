@@ -1,6 +1,7 @@
 # Loli License
 
-**VERSION 1.0**
+**VERSION 1.1**
+
 © {Developer} {Year}
 
 ## Index:
@@ -30,7 +31,7 @@
     - Distribute
     - Contribute
 - Mod: The mod designated by the present license, in source or binary form as obtained standalone or part of a wider distribution, or as a result of compilation from the original source or a modified source.
-- Developer: Copyright Holder stated at line 4 of this document.
+- Developer: Copyright Holder stated at line 5 of this document.
 - Contributor: Any [User] that contributes via a Pull Request or a direct Commit to [The Repository]
 - The Repository: The official repository presented by the [Developer] where the [Mod] source is situated.
 
